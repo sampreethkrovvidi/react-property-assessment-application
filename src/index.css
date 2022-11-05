@@ -85,7 +85,6 @@ body {
 }
 
 .navbar{
-
     margin-left: 280px;
 }
 
@@ -97,6 +96,59 @@ body {
 h2 {
     padding-top: 25px;
     text-align: center;
+}
+
+#add-assessment {
+    height: 85px;
+}
+
+#add-assessment-btns {
+    text-align: center;
+}
+
+.addHoa {
+    padding-bottom: 150px;
+}
+
+#hoa-title-1{
+    margin-left: 235px;
+}
+
+#hoa-title-2{
+    margin-left: 235px;
+}
+
+#req-symbol{
+    color: red;
+    display: inline;
+}
+
+#req-message{
+    margin-left: 270px;
+}
+
+.addAssessmentResponse{
+    padding-bottom: 150px;
+}
+
+#add-assessment-response-btns{
+    text-align: center;
+    padding-top: 75px;
+}
+
+.listUser{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.list-assessment-response{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.listAssessment{
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 @media screen and (max-height: 450px) {

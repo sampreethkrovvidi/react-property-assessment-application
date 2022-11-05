@@ -3,8 +3,9 @@ import React, { Component } from "react";
 class ListQuarterlyResponse extends Component {
     render() {
         return (
-            <h2>List Quarterly Response</h2>
-
+            <div className="listQuarterly">
+                <h2>List Quarterly Assessment</h2>
+            </div>
         );
     }
 }

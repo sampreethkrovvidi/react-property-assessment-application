@@ -26,7 +26,6 @@ class Main extends Component {
         return (
             <HashRouter>
                 <div>
-
                     <div className="sidenav">
                         <NavLink to="" className="sideNavTitle"><h1><i className="bi bi-house-fill"></i> Property Assessment</h1></NavLink>
 
